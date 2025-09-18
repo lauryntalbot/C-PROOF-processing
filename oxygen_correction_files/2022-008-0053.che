@@ -23,14 +23,14 @@
        8 Transmissivity:CTD:650                             %/m             48.3           60.1
        9 Transmissivity:CTD:530                             %/m             73.7           97.1
       10 Oxygen:Dissolved:CTD:Volume                        ml/l            0.26           7.2
-      11 Oxygen:Dissolved:CTD:Mass                          µmol/kg         11.5           313.8
+      11 Oxygen:Dissolved:CTD:Mass                          ¬µmol/kg         11.5           313.8
       12 Fluorescence:CTD:Seapoint                          mg/m^3          0.88E-01       1.932
-      13 PAR:CTD                                            µE/m^2/sec      0              404.5
-      14 Nitrate_plus_Nitrite:Bottle                        µmol/l          6.38           43.21
+      13 PAR:CTD                                            ¬µE/m^2/sec      0              404.5
+      14 Nitrate_plus_Nitrite:Bottle                        ¬µmol/l          6.38           43.21
       15 Flag:Nitrate_plus_Nitrite:Bottle                   n/a
-      16 Phosphate:Bottle                                   µmol/l          0.809          3.055
+      16 Phosphate:Bottle                                   ¬µmol/l          0.809          3.055
       17 Flag:Phosphate:Bottle                              n/a
-      18 Silicate:Bottle                                    µmol/l          10.85          89.07
+      18 Silicate:Bottle                                    ¬µmol/l          10.85          89.07
       19 Flag:Silicate:Bottle                               n/a
       20 Chlorophyll:Extracted:Bottle                       mg/m^3          0.33           0.53
       21 Flag:Chlorophyll:Extracted:Bottle                  n/a
@@ -140,14 +140,14 @@
 	Flags and comments apply to chlorophyll values only. No flags or comments are
 	assigned for Phaeo-Pigment values.
 
-	The minimum detectable level for DMS is 0.1 nM, so ì0î values should be interpreted
+	The minimum detectable level for DMS is 0.1 nM, so ‚Äú0‚Äù values should be interpreted
 	as <0.1 nM.
 	DMS data are limited to 2 significant figures.
 	Unless otherwise indicated the % relative difference between duplicates is <20%.
 	For more details including method and analysis see document 2022-008_DMS_report.pdf.
 	For duplicates analysis see file 2022-008_DMS.pdf.
 
-	The minimum detectable level for DMSP is 0.1 nM, so ì0î values should be interpreted
+	The minimum detectable level for DMSP is 0.1 nM, so ‚Äú0‚Äù values should be interpreted
 	as <0.1 nM.
 	DMSP data are limited to 2 significant figures.
 	Unless otherwise indicated the % relative difference between duplicates is <20%.
@@ -156,7 +156,7 @@
 
 	References:
 	1. Holm-Hansen, O., Lorenzen, C.J., Holmes, R.W., and Strickland J.D.H. 1965.
-	Fluorometric Determination of Chlorophyll. J.du Cons. Intl. Pour líEpl.
+	Fluorometric Determination of Chlorophyll. J.du Cons. Intl. Pour l‚ÄôEpl.
 	De la Mer. 30:3-15.
 	2. Carpenter, J.H. 1965. The Chesapeake Bay Institute Technique for the
 	Winkler Dissolved Oxygen Method. Limmnol. & Oceanogr., 10: 141-143.
